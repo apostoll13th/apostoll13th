@@ -1,9 +1,8 @@
-## Привет! Я apostoll13th
+## Подробная статистика:
+![](https://raw.githubusercontent.com/apostoll13th/apostoll13th/main/profile-summary-card-output/default/0-profile-details.svg)
 
-![apostoll13th's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apostoll13th&show_icons=true&theme=radical)
+## Самые популярные языки:
+![](https://raw.githubusercontent.com/apostoll13th/apostoll13th/main/profile-summary-card-output/default/1-most-used-languages.svg)
 
-## Статистика по языкам:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apostoll13th&layout=compact&theme=radical)
-
-## Прогресс активности:
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=apostoll13th&theme=react-dark)
+## Активность по дням:
+![](https://raw.githubusercontent.com/apostoll13th/apostoll13th/main/profile-summary-card-output/default/3-stats.svg)
